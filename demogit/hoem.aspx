@@ -50,6 +50,7 @@
         <div>
              <div class="auto-style4">
      <h1 class="auto-style7">House Rental Website</h1>
+                 <h1>new change</h1>
  </div>
  <table border="1" align="center">
      <tr colspan="2">
